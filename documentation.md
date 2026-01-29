@@ -229,4 +229,4 @@ It follows clean coding practices and is suitable for academic evaluation, inter
 ## Author
 
 Ayisha Mariyam
-Aspiring Data Analyst
+Aspiring Data Scientist
